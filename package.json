@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "postgresql-easy": "^1.2.5",
+    "serverless-offline": "^5.12.0"
+  }
 }
